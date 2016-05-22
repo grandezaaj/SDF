@@ -1,0 +1,6 @@
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

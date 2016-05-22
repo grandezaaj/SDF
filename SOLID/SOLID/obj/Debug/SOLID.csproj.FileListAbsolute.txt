@@ -1,0 +1,6 @@
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\SOLID\SOLID\bin\Debug\SOLID.exe.config
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\SOLID\SOLID\obj\Debug\SOLID.csprojResolveAssemblyReference.cache
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\SOLID\SOLID\bin\Debug\SOLID.exe
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\SOLID\SOLID\bin\Debug\SOLID.pdb
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\SOLID\SOLID\obj\Debug\SOLID.exe
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\SOLID\SOLID\obj\Debug\SOLID.pdb

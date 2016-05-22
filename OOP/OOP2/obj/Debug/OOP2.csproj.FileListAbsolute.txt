@@ -1,0 +1,6 @@
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\OOP\OOP2\bin\Debug\OOP2.exe.config
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\OOP\OOP2\bin\Debug\OOP2.exe
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\OOP\OOP2\bin\Debug\OOP2.pdb
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\OOP\OOP2\obj\Debug\OOP2.csprojResolveAssemblyReference.cache
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\OOP\OOP2\obj\Debug\OOP2.exe
+D:\Dropbox\LEAN.PH\Lean Agenda\SDF Materials\OOP\OOP2\obj\Debug\OOP2.pdb
